@@ -1,5 +1,5 @@
 /*
- * Copyright 2010 the original author or authors.
+ * Copyright 2010 -2012the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the 'License');
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package griffon.zonelayout.factory
+package griffon.plugins.zonelayout.factory
 
 import groovy.swing.factory.LayoutFactory
 import com.atticlabs.zonelayout.swing.ZoneLayout
